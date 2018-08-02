@@ -7,7 +7,13 @@ A collection of miscellaneous matlab codes written (or forked) by myself. Below 
 | `compute_aoc`  | computes Area Over Curve |
 | `compute_auc`  | computes Area Under Curve |
 ## (2) Matrix Operations
-  - trf_triu2vec  : vectorizes upper triangular part of a matrix
-  - trf_vec2triu  : converts the given vector into a symmetric, square matrix
+| Function | Description |
+| --- | --- |
+| `trf_triu2vec` | vectorizes upper triangular part of a matrix |
+| `trf_vec2triu` | converts the given vector into a symmetric, square matrix |
+| `trf_vech` | performs half-vectorization of a given matrix |
+| `trf_ivech` | performs the inverse operation of `trf_vech` |
 ## (3) Data Processing
-  - check_spdmats : returns a 3d array of symmetric and positive semidefinite matrices
+| Function | Description |
+| --- | --- |
+| `check_spdmats` | returns a 3d array of symmetric and positive semidefinite matrices |
