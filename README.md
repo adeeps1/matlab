@@ -1,4 +1,4 @@
-# MM : miscellaneous matlab codes
+# miscellaneous matlab codes
 A collection of scripts written (or forked) by myself. Below is the list of functions,
 ## (1) Signal Processing
 | Function | Description |
