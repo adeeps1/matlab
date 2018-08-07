@@ -17,3 +17,4 @@ A collection of scripts written (or forked) by myself. Below is the list of func
 | Function | Description |
 | --- | --- |
 | `check_spdmats` | returns a 3d array of symmetric and positive semidefinite matrices |
+| `trf_normalize` | normalizes/standardizes the data in an either row or column fashion |
