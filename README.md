@@ -6,6 +6,7 @@ A collection of scripts written (or forked) by myself. Below is the list of func
 | `compute_area` | computes area bounded by the curve |
 | `compute_aoc`  | computes Area Over Curve |
 | `compute_auc`  | computes Area Under Curve |
+| `extract_pca`  | computes mean signal using PCA |
 ## (2) Matrix Operations
 | Function | Description |
 | --- | --- |
